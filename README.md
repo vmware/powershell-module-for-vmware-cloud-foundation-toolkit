@@ -38,14 +38,12 @@ The module serves as a foundational toolbox for VCF administrators and developer
 
 ### Software Requirements
 - **PowerShell**: Version 7.2.0 or later
-- **VMware PowerCLI**: One of the following:
-  - VCF.PowerCLI (recommended for VCF environments)
-  - VMware.PowerCLI
+- **VCF.PowerCLI**: Version 9.0 or later
 
 ### Supported Platforms
-- Windows (PowerShell 7.2+)
-- macOS (PowerShell 7.2+)
-- Linux (PowerShell 7.2+)
+- Windows
+- macOS
+- Linux
 
 ## Installation
 

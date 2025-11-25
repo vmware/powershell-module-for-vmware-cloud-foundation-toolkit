@@ -53,18 +53,12 @@ The module serves as a foundational toolbox for VCF administrators and developer
 
 1. Clone or download this repository:
 ```powershell
-git clone https://github.com/your-org/VCF.Powershell.Toolbox.git
+git clone https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-toolkit.git
 ```
 
 2. Import the module:
 ```powershell
-Import-Module ./VCF.Powershell.Toolbox/VCF.Powershell.Toolbox.psd1
-```
-
-### Option 2: Install from PowerShell Gallery (if published)
-
-```powershell
-Install-Module -Name VCF.Powershell.Toolbox -Scope CurrentUser
+Import-Module ./VCF.Powershell.Toolbox.psd1
 ```
 
 ### Verify Installation

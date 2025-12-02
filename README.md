@@ -3,7 +3,7 @@
 VMware Cloud Foundation PowerShell Workflow Automation Module
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-7.2%2B-blue.svg)](https://github.com/PowerShell/PowerShell)
-[![License](https://img.shields.io/badge/License-Broadcom-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Broadcom-green.svg)](LICENSE.md)
 [![Version](https://img.shields.io/badge/Version-1.0.0.2-orange.svg)](CHANGELOG.md)
 
 ## Overview
